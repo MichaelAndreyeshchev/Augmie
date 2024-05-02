@@ -1,4 +1,4 @@
-# Augmie - Augmented Reality Menu
+# Augmie - Leveraging AR and AI to create an enhanced customer experience.
 
 Augmie is an augmented reality (AR) application developed using Android's ARCore and Compose UI toolkit. It features dynamic interaction with 3D models of various luxury vehicles through augmented reality, voice commands, and touch input, utilizing OpenAI's GPT-3.5 for natural language understanding.
 
